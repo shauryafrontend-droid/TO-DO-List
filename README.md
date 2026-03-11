@@ -7,7 +7,7 @@ It allows users to add, complete, and delete tasks. The tasks are stored in **Lo
 
 ## 🌐 Live Demo
 
-🔗 https://your-todo-app.netlify.app/
+🔗 https://steady-mermaid-6a182a.netlify.app/
 
 ---
 
@@ -69,5 +69,4 @@ cd todo-list
 ## 👨‍💻 Author
 
 **Shaurya**
-GitHub: https://github.com/shauryafrontend-droid
 GitHub: https://github.com/shauryafrontend-droid
